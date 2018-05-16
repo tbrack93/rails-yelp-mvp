@@ -31,6 +31,9 @@ gem 'jbuilder', '~> 2.5'
 # gem 'mini_magick', '~> 4.8'
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'font-awesome-sass'
+gem 'autoprefixer-rails'
+gem 'jquery-rails'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
